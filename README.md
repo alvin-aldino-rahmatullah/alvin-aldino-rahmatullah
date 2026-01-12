@@ -51,7 +51,7 @@ Each repository is documented as part of my continuous academic and technical de
 ---
 
 ## 📈 GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alvin-aldino-rahmatullah&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alvin-aldino-rahmatullah&layout=compact&hide_border=true)
 
 ---
 
